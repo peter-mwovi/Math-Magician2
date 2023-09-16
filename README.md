@@ -8,9 +8,8 @@
   - [🛠️ Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
-  - [events](#events)
+  - [fetch-from-api](#fetch-from-api)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
@@ -24,7 +23,7 @@
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
-# 📖 Math Magician - events <a name="about-project"></a>
+# 📖 Math Magician - fetch-from-api <a name="about-project"></a>
 "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
 
 <li>Make simple calculations. </li>
@@ -49,16 +48,10 @@
 - **Good HTML and CSS practices**
 - **A webpage with the use of linters**
 - **Dynamic interactivity with JavaScript**
-- **React project with events**
+- **React project with fetch-from-api**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Live Demo <a name="live-demo"></a>
-
-🚀 Live Demo
-Link to our deployed project (project not deployed yet).
-
-  Soon to be deployed...
 
 <!-- GETTING STARTED -->
 
@@ -66,7 +59,7 @@ Link to our deployed project (project not deployed yet).
 
 To get a local copy up and running, follow these steps.
 
-### events <a name="events"></a>
+### fetch-from-api <a name="fetch-from-api"></a>
 
 Clone this repository to your desired folder by running the following commands in your terminal:
 
