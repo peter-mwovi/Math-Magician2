@@ -1,9 +1,11 @@
+import React from 'react';
+import CalculatorDisplay from './CalculatorDisplay';
 import Button from './Button';
 
-function Calculator() {
+export default function Calculator() {
   return (
-    <div className="calc">
-      <span className="keys4">0</span>
+    <div className="calciGrid">
+      <CalculatorDisplay />
       <Button text="AC" styling="key1" />
       <Button text="+/-" styling="key1" />
       <Button text="%" styling="key1" />
@@ -26,5 +28,3 @@ function Calculator() {
     </div>
   );
 }
-
-export default Calculator;
