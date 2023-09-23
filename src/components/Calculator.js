@@ -17,8 +17,6 @@ function Calculator() {
       setDisplayValue('');
     } else if (buttonName === '=') {
       setDisplayValue(newOperation.total || '');
-    } else if (buttonName === '+/-') {
-      setDisplayValue(displayValue + buttonName);
     } else {
       setDisplayValue(displayValue + buttonName);
     }

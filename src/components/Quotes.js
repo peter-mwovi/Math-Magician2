@@ -2,7 +2,8 @@ import React from 'react';
 import RandomQuote from './RandomQuote';
 
 const Quotes = () => (
-  <div className="random">
+  <div>
+    <h3>Quote of the day!</h3>
     <RandomQuote />
   </div>
 );
